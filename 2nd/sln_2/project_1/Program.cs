@@ -56,8 +56,28 @@ namespace project_1
             Console.WriteLine(DateTime.Now.Hour < 3 || 8 < DateTime.Now.Hour);
             Console.WriteLine(DateTime.Now.Hour < 3 && 8 < DateTime.Now.Hour);
 
-            // 변수: 값을 저장할때 사용하는 식별자
-            // 정수형 자료형(int, long)
+            
+            //변수 : 값을 저장할 때 사용하는 식별자
+            //정수 자료형 (int, long)
+            int a = 123;
+            int b = 52;
+            Console.WriteLine(a % b);
+
+            //실수 자료형 (float 4, double 8)
+            double aa = 52.273;
+            double bb = 103.32;
+            Console.WriteLine(52.123f + 12.34f);    //결과값 float
+            Console.WriteLine(52.123 + 12.34f);    //결과값 double
+
+            //sizeof(자료형), 자료형의 크기를 확인한다
+            Console.WriteLine("int : " + sizeof(int));
+            Console.WriteLine("long : " + sizeof(long));
+            Console.WriteLine("float : " + sizeof(float));
+            Console.WriteLine("double : " + sizeof(double));
+            Console.WriteLine("char : " + sizeof(char));
+            //Console.WriteLine("string : " + sizeof(string));
+            //다른 자료형은 모두 구조체이지만 string 자료형은 class이다. class는 메모리 공간에 없기 때문에 크기를 확인할 수 없다.
+
 
 
 
