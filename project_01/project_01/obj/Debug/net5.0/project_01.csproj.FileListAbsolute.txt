@@ -1,0 +1,16 @@
+D:\Study_A\11th\project_01\project_01\bin\Debug\net5.0\project_01.exe
+D:\Study_A\11th\project_01\project_01\bin\Debug\net5.0\project_01.deps.json
+D:\Study_A\11th\project_01\project_01\bin\Debug\net5.0\project_01.runtimeconfig.json
+D:\Study_A\11th\project_01\project_01\bin\Debug\net5.0\project_01.runtimeconfig.dev.json
+D:\Study_A\11th\project_01\project_01\bin\Debug\net5.0\project_01.dll
+D:\Study_A\11th\project_01\project_01\bin\Debug\net5.0\ref\project_01.dll
+D:\Study_A\11th\project_01\project_01\bin\Debug\net5.0\project_01.pdb
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\project_01.csproj.AssemblyReference.cache
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\project_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\project_01.AssemblyInfoInputs.cache
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\project_01.AssemblyInfo.cs
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\project_01.csproj.CoreCompileInputs.cache
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\project_01.dll
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\ref\project_01.dll
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\project_01.pdb
+D:\Study_A\11th\project_01\project_01\obj\Debug\net5.0\project_01.genruntimeconfig.cache
